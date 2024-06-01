@@ -1,2 +1,2 @@
-# lan-amento-belga
+# lançamento-belga
 Página teste para o futuro lançamento
